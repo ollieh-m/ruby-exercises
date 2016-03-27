@@ -1,0 +1,1 @@
+puts Math.cos(Math::PI/3)
